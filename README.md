@@ -1,14 +1,19 @@
-# Hey, I’m Kemono 👾  
+# Hey, I’m Kemono 👾
 *aka Aryan Raj Joshi*
 
-⚡ I build fast, think sharp and don’t waste time or code  
+⚡<i> I build fast, think sharp and don’t waste time or code </i> <br>
+🌙 Shipping late-night commits where logic meets vibes     <br> <br>
 🔍 Computer Programming student @ Seneca Polytechnic  
 🧠 Building iOS apps, fullstack sites & optimizing with C++, SQL and JavaScript  
 🎯 Bug hunter & ethical hacker (for fun sometimes for bounties, mainly for the bounties)  
 🧪 Exploring AI and prompt engineering through real-world LLM evaluation work at Outlier.ai  
-🌙 Shipping late-night commits where logic meets vibes  
+  
+📦 Currently working on: 
 
-📦 Currently working on: [Zillow iOS App](#) · [Olympic Data Integrator](#)
+· [Zillow iOS App](#)            <br>
+· [Olympic Data Integrator](#)   <br>
+· [Melody Mix](#)                <br>
+· [Computer Sales Database ](#)  <br>
 
 ---
 
