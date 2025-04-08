@@ -1,10 +1,10 @@
 # Hey, I’m Kemono 👾  
 *aka Aryan Raj Joshi*
 
-⚡ I build fast, think sharp and don’t waste time or ... code  
+⚡ I build fast, think sharp and don’t waste time or code  
 🔍 Computer Programming student @ Seneca Polytechnic  
-🧠 Building iOS apps, fullstack sites & optimizing with C++, SQL, and JavaScript  
-🎯 Bug hunter & ethical hacker (for fun — sometimes for bounties, mainly for the bounties)  
+🧠 Building iOS apps, fullstack sites & optimizing with C++, SQL and JavaScript  
+🎯 Bug hunter & ethical hacker (for fun sometimes for bounties, mainly for the bounties)  
 🧪 Exploring AI and prompt engineering through real-world LLM evaluation work at Outlier.ai  
 🌙 Shipping late-night commits where logic meets vibes  
 
