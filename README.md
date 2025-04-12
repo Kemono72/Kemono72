@@ -44,10 +44,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kemono72&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kemono72&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kemono72&theme=midnight-purple&hide_border=false)<br/>
-![Kemono72's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kemono72&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+## 📊 GitHub Stats
+![Kemono72's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kemono72&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Kemono72&theme=midnight-purple&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kemono72&layout=compact&theme=midnight-purple&hide_border=false)
+
 
 
 ## 🌐 Socials:
