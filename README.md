@@ -42,7 +42,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kemono72&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kemono72&theme=midnight-purple)
 
 ## 📊 GitHub Stats
 ![Kemono72's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kemono72&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=false)
