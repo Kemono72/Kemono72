@@ -42,19 +42,17 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kemono72&theme=midnight-purple)
+![](https://github-profile-trophy.vercel.app/?username=Kemono72&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats
 ![Kemono72's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kemono72&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Kemono72&theme=midnight-purple&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kemono72&layout=compact&theme=midnight-purple&hide_border=false)
 
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kemono_72) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kemono_7214) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kemono) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanrajjoshi72@gmail.com) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kemono72&icon=7&color=13)](https://visitcount.itsvg.in)
+
 
 
